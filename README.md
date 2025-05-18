@@ -108,9 +108,9 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-* Seu Nome: [Gustavo Marques]
-* Seu Email: [gutosantosx@gmail.com]
-* Seu GitHub: [(https://github.com/GustavoMarques22)]
+* Seu Nome: Gustavo Marques
+* Seu Email: gutosantosx@gmail.com
+* Seu GitHub: https://github.com/GustavoMarques22
 
 ---
 
